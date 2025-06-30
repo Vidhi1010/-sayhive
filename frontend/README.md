@@ -9,7 +9,7 @@ This repository contains the **frontend application**, built with **Next.js** an
 ## 🚀 Features
 
 - 📰 Interactive social post feed  
-- 🗳️ Polls embedded directly in posts  
+- 🗳️ Polls embedded in posts  
 - 💬 Comment section (UI-ready)  
 - 🔍 Search bar and trending tags UI  
 - 🌙 Light and dark theme support *(optional)*
@@ -26,5 +26,6 @@ This repository contains the **frontend application**, built with **Next.js** an
 ---
 
 ## 📦 Getting Started
+
 
 
